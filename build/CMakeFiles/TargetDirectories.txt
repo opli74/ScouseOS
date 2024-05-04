@@ -1,0 +1,4 @@
+D:/ScouseOS/build/CMakeFiles/boot.dir
+D:/ScouseOS/build/CMakeFiles/main.dir
+D:/ScouseOS/build/CMakeFiles/edit_cache.dir
+D:/ScouseOS/build/CMakeFiles/rebuild_cache.dir

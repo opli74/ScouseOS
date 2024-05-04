@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+b5f28aa92421cfe954cb528a6fc435ba CMakeFiles/boot
+b5f28aa92421cfe954cb528a6fc435ba CMakeFiles/main
+3518443b14246930aa1adb43d58e324d out/boot.bin
+7a6ebe535f3f3f40384e5a8e80760c3d out/main.bin
